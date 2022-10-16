@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/p5k787y2c8242p11?svg=true)](https://ci.appveyor.com/project/LudmilaSh/patternscarddilevery)
